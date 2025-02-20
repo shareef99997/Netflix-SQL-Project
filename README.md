@@ -117,3 +117,9 @@ The dataset used in this project includes:
    ```sh
    git clone https://github.com/your-username/netflix-data-analysis.git
    cd netflix-data-analysis
+   Open netflix_analysis.sql in pgAdmin or your preferred SQL client.
+
+2. Load the dataset:
+
+   Import netflix_titles.csv into a PostgreSQL database.
+3. Run the queries to explore insights about Netflix's content library.
