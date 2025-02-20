@@ -147,8 +147,6 @@ Top 10 actors bar chart
 
 Country-wise content count
 
-📷 Screenshots
-<p align="center"> <img src="images/query_results.png" width="700" alt="Query Results"> </p>
 🤝 Collaboration and Contributions
 Contributions are welcome! If you want to contribute:
 
