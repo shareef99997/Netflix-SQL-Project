@@ -129,8 +129,6 @@ Name: Shareef Ali
 
 <a href="https://www.linkedin.com/in/shareef-ali/" target="_blank">LinkedIn<a/>
 
-<a href="Shareef@99997@gmail.com" target="_blank">Email<a/>
-
 <a href="www.shareefdev.com" target="_blank">Personal Website<a/>
 
 ⭐️ Don't forget to star the repo if you found it useful!
