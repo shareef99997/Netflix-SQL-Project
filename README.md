@@ -127,10 +127,10 @@ For any inquiries or discussions, feel free to reach out:
 
 Name: Shareef Ali
 
-LinkedIn: [Link](https://www.linkedin.com/in/shareef-ali/)
+<a href="https://www.linkedin.com/in/shareef-ali/" target="_blank">LinkedIn<a/>
 
-Email: [Link](Shareef@99997@gmail.com)
+<a href="Shareef@99997@gmail.com" target="_blank">Email<a/>
 
-Personal Website: [Link](www.shareefdev.com)
+<a href="www.shareefdev.com" target="_blank">Personal Website<a/>
 
 ⭐️ Don't forget to star the repo if you found it useful!
