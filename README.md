@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/netflix-logo.png" width="300" alt="Netflix Logo">
+  <img src="assets/netflix_logo.png" width="300" alt="Netflix Logo">
 </p>
 
 # 🎬 Netflix Data Analysis (SQL Project)
@@ -70,58 +70,53 @@ FROM splited_countries
 GROUP BY country
 ORDER BY content DESC
 LIMIT 5;
-🧠 Insights Gained
-TV Shows slightly outnumber Movies on Netflix
-
-TV-MA is the most common rating across all content
-
-The United States, India, and the UK produce the most content
-
-Documentaries and Dramas are dominant genres
-
-Actor Salman Khan appears in multiple titles over the last decade
-
-Netflix has significantly expanded French content in recent years
-
-⚙️ Tools & Tech Used
-PostgreSQL – Querying & analysis
-
-pgAdmin – SQL IDE
-
-Git & GitHub – Version control & portfolio publishing
-
-🖼️ Database Schema
-<p align="center"> <img src="schema/schema.png" alt="Database Schema" width="800"> </p>
-📥 How to Use
-1️⃣ Clone this repo or download the .sql and .csv files
-2️⃣ Create the schema using the provided SQL structure
-3️⃣ Import the CSV into the netflix table
-4️⃣ Run analysis queries inside any PostgreSQL IDE (e.g., pgAdmin)
-
-👨‍💻 About Me
-Hi, I'm Shareef Ali, a passionate Data Analyst with experience in SQL, Power BI, Python, and Excel.
-
-📬 Let’s connect!
-🔗 GitHub
-🔗 LinkedIn
-🔗 Portfolio Website
-
-📢 If this project helped you, please ⭐ the repo!
-
-markdown
-Copy
-Edit
-
+```
 
 ---
 
-### ✅ What You Need to Do
+## 🧠 Insights Gained
 
-1. Replace `netflix-logo.png` with the one you used
-2. Save the schema diagram as `schema/schema.png`
-3. Push `Business Problems Netflix.sql` and `netflix_titles.csv`
-4. Save this as your `README.md`
+- TV Shows slightly outnumber Movies on Netflix  
+- TV-MA is the most common rating across all content  
+- The United States, India, and the UK produce the most content  
+- Documentaries and Dramas are dominant genres  
+- Actor **Salman Khan** appears in multiple titles over the last decade  
+- Netflix has significantly expanded French content in recent years  
 
-Once it's live, you’ll have an **excellent SQL portfolio piece** that balances business logic with clean query work.
+---
 
-Let me know when it’s uploaded or if you want to build a **dashboard (Power BI or Excel)** later for the sam
+## ⚙️ Tools & Tech Used
+
+- **PostgreSQL** – Querying & analysis  
+- **pgAdmin** – SQL IDE  
+- **Git & GitHub** – Version control & portfolio publishing  
+
+---
+
+## 🖼️ Database Schema
+
+<p align="center">
+  <img src="schema/schema.png" alt="Database Schema" width="800">
+</p>
+
+---
+
+## 📥 How to Use
+
+1️⃣ Clone this repo or download the `.sql` and `.csv` files  
+2️⃣ Create the schema using the provided SQL structure  
+3️⃣ Import the CSV into the `netflix` table  
+4️⃣ Run analysis queries inside any PostgreSQL IDE (e.g., pgAdmin)
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Shareef Ali**, a passionate **Data Analyst** with experience in **SQL, Power BI, Python, and Excel**.
+
+📬 **Let’s connect!**  
+🔗 [GitHub](https://github.com/shareef99997)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shareef-ali/)  
+🔗 [Portfolio Website](https://www.shareefdev.com)
+
+📢 **If this project helped you, please ⭐ the repo!**
