@@ -38,5 +38,4 @@ CREATE TABLE netflix
 	description VARCHAR(550)
 );
 
->>>>>>> 5bc094a (Add Postgresql icon)
 SELECT * FROM netflix;
